@@ -1,0 +1,39 @@
+T# Proposal
+
+## What will (likely) be the title of your project?
+
+NFL Score Simulator 
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+The project will predict the score to NFL games for the 2022 season.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+Our project will use offensive and defensive stats of National Football League teams to help predict a score to any combination of two NFL teams. These scores will most likely be off if the team is at their full strength and the game is played at a neutral site., but it should still give off a very close prediction of what the score should be to a game. 
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+N/A
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Ryan Gaspar, ryan.gaspar@temple.edu, Sky Gao
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A good outcome would be predicting the amount of points a team scores in a game.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+A better outcome would be the amount of points a team can score against a certain team.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+The best outcome would be the program to predict the exact score to any combination of NFL games.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I do not think we need to acquire any new skills, we should know how to do everything. I will be working mostly on the statistics and sports part of the project. Researching the data of the teams and putting all that into python. Ryan will be working on the program and the prediction aspect of the project. 
